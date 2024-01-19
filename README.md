@@ -1,5 +1,4 @@
 # DS_Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly
-![img]([https://user-images.githubusercontent.com/121713702/226621611-58ea743a-9f9d-43cd-880f-39e0f4e45b9c.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnuvei.com%2Fapm%2Fphonepe%2F&psig=AOvVaw170MCuUkRnvekAYhOFdu0s&ust=1705764787580000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICwzZzj6YMDFQAAAAAdAAAAABAD).png)
 
 # Data Visualization and Exploration : A User-Friendly Tool Using Streamlit and Plotly
 
